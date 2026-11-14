@@ -32,12 +32,12 @@ Pin `ref:` to a tag so every POS app gets the same, reproducible version.
 dependencies:
   pos_theme:
     git:
-      url: https://github.com/<your-account>/pos_theme_flutter.git
+      url: https://github.com/SibghatullahDurrani/pos_theme.git
       path: packages/pos_theme
       ref: v1.0.0
 ```
 
-Private repo? Use the SSH URL (`git@github.com:<your-account>/pos_theme_flutter.git`) so pub
+Private repo? Use the SSH URL (`git@github.com:SibghatullahDurrani/pos_theme.git`) so pub
 uses your SSH key; on CI, add a deploy key or a token-authenticated HTTPS URL.
 
 ### Releasing a new version

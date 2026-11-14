@@ -38,7 +38,7 @@ The package lives in the `packages/pos_theme` sub-folder of the repo, so the git
 dependencies:
   pos_theme:
     git:
-      url: git@github.com:<account>/pos_theme_flutter.git
+      url: git@github.com:SibghatullahDurrani/pos_theme.git
       path: packages/pos_theme
       ref: v1.0.0          # always pin a tag
 ```
