@@ -3,6 +3,9 @@
 Shared design system for every POS app in the suite: **5 themes × light/dark**, responsive
 layout primitives, and a full component library. A showcase app lets you preview everything live.
 
+> **Full API reference and usage rules:** [`packages/pos_theme/README.md`](packages/pos_theme/README.md)
+> (start there if you're a developer or an AI agent building a POS app on this package).
+
 ```
 packages/pos_theme/   reusable package (add as a path/git dependency to each POS app)
 apps/showcase/        gallery app with live theme switcher + sample screens
